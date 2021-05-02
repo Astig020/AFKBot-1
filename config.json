@@ -5,7 +5,7 @@
     },
 
     "server": {
-        "host": "localhost",
+        "host": "markph2021.aternos.me",
         "port": 25565
     },
 
